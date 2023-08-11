@@ -2,7 +2,7 @@
 
 Proyecto de prueba para nextjs 13, express y typescript.
 
-# Ejecución del proyecto backend
+## Ejecución del proyecto backend
 
 1. cd hasta la carpeta be.
 2. correr `npm i`
